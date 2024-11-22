@@ -71,7 +71,7 @@ const SettingsItem: React.FC<SettingsItemProps> = ({
   </View>
 );
 
-const Settings = () => {
+const Settings: React.FC = () => {
   const accounts: Account[] = [
     {id: '1', name: 'lamia qassim 1', avatar: Images.Rectangle},
     {id: '2', name: 'lamia qassim 2', avatar: Images.Rectangle},

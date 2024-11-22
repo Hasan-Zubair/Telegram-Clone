@@ -12,6 +12,10 @@ const Images = {
     Saves: require('./saved.png'),
     Phone: require('./calls.png'),
     Stickers: require('./stickers.png'),
+    photo: require('./no_camera.png'),
+    video: require('./no_video.png'),
+    GIF: require('./gif.png'),
+    reset: require('./reset.png'),
 };
 
 export default Images;

@@ -10,7 +10,7 @@ import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import Images from '../assets/images';
 import React from 'react';
 
-const ChatSetting = () => {
+const ChatSetting: React.FC = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View>

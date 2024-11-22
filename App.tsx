@@ -6,11 +6,10 @@
  */
 
 import React from 'react';
-
-import Settings from './components/Settings';
+import Conversation from './components/Conversation';
 
 function App(): React.JSX.Element {
-  return <Settings />;
+  return <Conversation />;
 }
 
 export default App;
