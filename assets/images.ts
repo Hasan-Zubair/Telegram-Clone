@@ -16,6 +16,7 @@ const Images = {
     video: require('./no_video.png'),
     GIF: require('./gif.png'),
     reset: require('./reset.png'),
+    bgImg: require('./BackgroundImg.png'),
 };
 
 export default Images;

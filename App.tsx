@@ -6,10 +6,10 @@
  */
 
 import React from 'react';
-import Conversation from './components/Conversation';
+import Themes from './components/Themes';
 
 function App(): React.JSX.Element {
-  return <Conversation />;
+  return <Themes message="Good morning! 👋" sender="Lamia" />;
 }
 
 export default App;

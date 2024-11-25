@@ -21,12 +21,12 @@ const Mods: SwitchItem[] = [
   {id: 5, label: 'Hide scroll up icon'},
   {id: 6, label: 'Hide scroll down icon'},
   {id: 7, label: 'Hide the auto text icon'},
-  {id: 7, label: 'Hide the translation icon'},
+  {id: 8, label: 'Hide the translation icon'},
 ];
 
 const voiceMods: SwitchItem[] = [
-  {id: 8, label: 'Enable proximity sensor'},
-  {id: 9, label: 'Disable output switching'},
+  {id: 9, label: 'Enable proximity sensor'},
+  {id: 10, label: 'Disable output switching'},
 ];
 
 
