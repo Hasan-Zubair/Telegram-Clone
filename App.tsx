@@ -6,10 +6,10 @@
  */
 
 import React from 'react';
-import Themes from './components/Themes';
+import AutoReply1 from './components/AutoReply1';
 
 function App(): React.JSX.Element {
-  return <Themes message="Good morning! 👋" sender="Lamia" />;
+  return <AutoReply1 />;
 }
 
 export default App;

@@ -17,6 +17,7 @@ const Images = {
     GIF: require('./gif.png'),
     reset: require('./reset.png'),
     bgImg: require('./BackgroundImg.png'),
+    bgImg2: require('./bgImg2.png'),
 };
 
 export default Images;
